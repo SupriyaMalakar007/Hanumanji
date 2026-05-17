@@ -1,5 +1,4 @@
 # Hanumanji
-# HanumanJi-in-Python
 Drawing Hanuman Ji by using Python Turtle.
 
 ## Run Locally (Windows/Linux/macOS)
